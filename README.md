@@ -1,3 +1,3 @@
 # recipes
 
-Simple website for food recipies.
+Simple website for food recipes.
